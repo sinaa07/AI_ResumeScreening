@@ -3,6 +3,8 @@
 ## 📌 Overview
 This AI-powered resume filtering tool automates the initial screening process for hiring by filtering out non-matching resumes based on job descriptions. It utilizes machine learning and natural language processing (NLP) techniques to match skills, experience, and qualifications efficiently.
 
+📊 Dataset sourced from [Kaggle](https://www.kaggle.com/) for training and evaluation.
+
 ## ✨ Features
 - Filters resumes based on job description criteria.
 - Uses cosine similarity on embeddings (TF-IDF, BERT, or Google AI Studio) to determine relevance.
